@@ -1,4 +1,5 @@
 This directory contains the source file and the compiled file : Draw.java, Draw.class
+Compile again to avoid issues due to backward compatibility 
 To compile again: Javac Draw.java
 To run: Java Draw
 Alternatively, execute on IDE
